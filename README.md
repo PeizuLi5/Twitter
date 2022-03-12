@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter*
 
-**Twitter Info** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
 Time spent: *5X** hours spent in total
 
